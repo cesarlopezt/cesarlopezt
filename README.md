@@ -9,5 +9,5 @@ I am a **Software Engineer** from the Dominican Republic🌴 focused on learning
 
 
 <!-- 
-I have a Youtube channel called (Slowtyper)[https://www.youtube.com/channel/UCLrjwyHUJ-IzwEBZtTCbuCg] where I post tutorials, devlogs and videos of my journey while I become a better software engineer.
+I have a Youtube channel called (Slowtyper)[https://www.youtube.com/channel/UCLrjwyHUJ-IzwEBZtTCbuCg] where I post devlogs and tutorials. I'll be more than honored if you join on the journey of becoming better software engineers together.
 -->
