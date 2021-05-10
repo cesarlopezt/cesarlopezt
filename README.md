@@ -2,7 +2,7 @@
 
 I am a **Software Engineer** from the Dominican Republic🌴 focused on learning and improving as much as possible.
 
-The areas that excite me the most are: 
+#### The areas that excite me the most are: 
 * Full-stack Web Development
 * Automation
 * Software Project Management
